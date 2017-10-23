@@ -168,6 +168,16 @@
 	
 	section { padding: 1rem 0;}
 	
+	header h1 {	
+		font-size: 250%;
+		top: 45%;
+	}
+	
+	.btn {
+		bottom: 10%;	
+		font-size: 105%;
+	}	
+	
 	.hall { height: 6rem;}	
 	
 	.overlay-text { font-size: 60%;}
