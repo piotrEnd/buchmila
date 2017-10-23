@@ -1,0 +1,176 @@
+@media only screen and (max-width: 1200px) {
+	
+	.btn { padding: .3rem 1rem; }
+	.row { padding: 0 2%; }		
+}
+
+@media only screen and (max-width: 1023px) {
+	
+	body { font-size: 18px;	}
+	
+	section { padding: 3rem 0;	}
+	
+	h2 {	font-size: 250%;	}
+	
+	h2 + p {
+		width: 90%;
+		margin-left: 5%;
+	}
+	
+	.sticky .nav li {	margin: 1rem 1.5rem .25rem;	}
+	
+	.box {
+		margin-top: 1.5rem;
+		padding: 0%;
+	}
+	
+	.box h3 {
+		font-size: 140%;
+		margin-bottom: .5rem;
+	}
+	
+	.box p {
+		width: 80%;
+		margin-left: 10%;
+}
+	.about .fa { margin-bottom: .5rem;	}
+	
+	.showrooms-photo { width: 90%;	}
+	
+	.map-contact {	width: 50%;	}
+	
+	.sticky .nav li {	margin: 1rem 1.9rem .25rem; }
+}
+
+@media only screen and (max-width: 767px) {
+	
+	body {
+		font-size: 16px;
+		overflow-x: hidden;
+	}
+	
+	section { padding: 2rem 0;	}
+	
+	.row { padding: 0 3%; }
+	
+	.col {
+		width: 100%;	
+		margin: 0 0 2% 0;
+	}
+
+	.nav { display: none; }
+	
+	header h1 {	top: 30%; }
+	
+	.nav-icon {	display: inline-block; }
+	
+	.nav {
+		float: right;
+		margin-top: 2rem;
+		margin-left: 5%;
+	}
+	
+	.nav li {
+		display: block;
+		margin-top: 1rem;
+	}
+	
+	.nav li a:link, 
+	.nav li a:visited {
+		border: 0;
+	}
+	
+	.sticky .nav {
+		margin-top: 0;
+		float: left;
+	}
+	
+	.sticky .nav a:link,
+	.sticky .nav a:visited {
+		display: block;
+		border: 0;
+	}
+
+	.sticky .nav-icon {	margin: 1rem;	}
+	
+	header h1 {	font-size: 300%;	}
+	
+	.btn { font-size: 125%;	}
+	
+	h2 { font-size: 200%; }
+	
+	h1, h2, h3 { margin-bottom: 1rem; }
+	
+	h2+p { margin-bottom: 1rem; }
+	
+	h2:after,
+	.rooms:after {	margin-top: .5rem;	}
+	
+	.box { margin-top: .5rem;	}
+	
+	.hall {
+		background-size: contain;	
+		height: 12rem;
+	}
+	
+	.rooms-features {	margin: 1rem auto .5rem auto; }
+
+	.rooms-features .fa { font-size: 120%;	}
+	
+	.rooms p {	margin-bottom: 1.5rem;	}
+	
+	.showrooms-photo { width: 90%; }
+	
+	.overlay-text { font-size: 70%;}
+	
+	.map-box {
+		height: 20rem;	
+		margin-top: 2rem;
+	}
+
+	.map {
+		height: 20rem;
+	}
+
+	.map-contact {
+		width: 50%;
+		height: 20rem;
+	}
+	
+	.contact-items {	margin-top: 1rem;	}
+	
+	.contact-items .fa {
+		font-size: 100%;
+		margin-bottom: .2rem;
+}
+
+	.contact-items a {
+		font-size: 120%;
+		margin: .8rem auto;
+		}
+	
+	.social-links li {
+		margin-top: 2rem;
+		padding: .75rem;
+		font-size: 180%;
+	}
+	
+	.contact {	padding-bottom: 1.5rem;	}
+	
+	footer {	padding-bottom: .5rem;	}
+}
+
+@media only screen and (max-width: 480px) {
+	body {
+		font-size: 14px;
+		overflow-x: hidden;
+	}
+	
+	section { padding: 1rem 0;}
+	
+	.hall { height: 6rem;}	
+	
+	.overlay-text { font-size: 60%;}
+	
+	.showrooms-photo { width: 95%;}
+}
