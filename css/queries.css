@@ -32,7 +32,8 @@
 	.box p {
 		width: 80%;
 		margin-left: 10%;
-}
+	}
+	
 	.about .fa { margin-bottom: .5rem;	}
 	
 	.showrooms-photo { width: 90%;	}
@@ -183,4 +184,71 @@
 	.overlay-text { font-size: 60%;}
 	
 	.showrooms-photo { width: 95%;}
+	
+		.social-links li {
+		margin-top: .5rem;
+	}
+}
+
+/* landscape orientation */
+
+@media (max-width: 767px) and (orientation: landscape) {
+	
+	header h1 {	
+		font-size: 200%;
+		top: 30%;
+	}	
+	
+	.btn {
+		bottom: 8%;	
+		right: 6%;
+		font-size: 80%;
+		padding: .2rem .5rem;
+	}	
+			
+	.nav-icon {	
+		margin: 1rem;	
+		font-size: 75%;}
+	
+	.nav {	
+		margin: 0;
+		margin-top: 1rem;	}
+	
+	.nav li {
+		display: inline-block;
+		margin-top: 0;
+		margin-left: .5rem;
+	}
+	
+	.nav li a, 
+	.sticky .nav li a {	font-size: 80%; }
+	
+	.sticky .nav-icon {	
+		margin: .25rem 0;	
+		font-size: 75%;
+	}
+	
+	.sticky .nav {
+		margin: 0;
+		margin-top: .5rem;	
+		float: none;
+	}
+	
+	.sticky .nav li { 
+		margin: 0;
+		margin-left: .5rem; }
+	
+		h2 {	font-size: 150%;	}
+	
+		h2 + p, .box h3, .box p {	font-size: 90%;}
+	
+	.hall { 
+		background-size: cover;	}
+	
+	.contact-items {	margin-top: 2rem;	}
+	
+	.social-links li {
+		margin-top: 1rem;
+		padding: .75rem;
+	}
 }
