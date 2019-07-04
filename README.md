@@ -1,15 +1,22 @@
-# buchmila
-Landing page to promote agrotourism farm &amp; guesthouse, which really exists!
+## buchmila
+----
 
-Landing page for my sister-in-law to promote her agrotourism guesthouse.
-<-- ಠ_ಠ Who cares? Me... --> 
+**Information architecture:**
 
-* Fluid grid basing on Graham Miller' grid system; downsized for personal use.
-* Responsive webpage.
-* Effects with use of jQuery.
-* Waypoints, Gmaps, Animate.css, Normalize.css, FontAwesome, Google Maps Api.
-* Images optimized to increase site speed performance.
+Agrotourism is indeed flourishing, but the whole hotel industry is very competitive. Potential guests often decide spontaneously where to stay and expect to find necessary impulses online. This website is constructed as one-page with well-thought-out content: large hero with navigation and direct call to action; short introduction with core values: familial, eco-friendly, open-all-year-round; gallery as visual presentation of available attractions; listing of commodities as benefits renew; large contact form with map and social media links.
 
-Visit at: https://piotrend.github.io/buchmila/
-Help me to improve! All contributions are welcomed & appreciated!
+**Design:**
 
+Main color associate with honey and organic eggs, both natural products offered at this agro-farm. The tone color draws attention without being overwhelming. Kalam's font is handwritten-one, yet very readable. It transmits and strengths human touch. All photos used in production were taken by me :) Fluid grid basing on Graham Miller' grid system; downsized for personal use.
+
+Please >> [visit here](https://piotrend.github.io/buchmila/ ) <<
+
+> *October, 2017*
+
+
+| technology stack  |
+| --- 		       |
+| HTML 	       |
+| CSS, Graham Miller' grid system |
+| jQuery	       |
+| Gmaps.js, Waypoints.js, Animate.js |
