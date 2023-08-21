@@ -3,11 +3,11 @@
 
 **Information architecture:**
 
-Agrotourism is indeed flourishing, but the whole hotel industry is very competitive. Potential guests often decide spontaneously where to stay and expect to find necessary impulses online. This website is constructed as one-page with well-thought-out content: large hero with navigation and direct call to action; short introduction with core values: familial, eco-friendly, open-all-year-round; gallery as visual presentation of available attractions; listing of commodities as benefits renew; large contact form with map and social media links.
+Agrotourism is experiencing significant growth, yet the hotel industry as a whole remains fiercely competitive. Prospective guests frequently make spontaneous stay decisions and anticipate finding essential guidance online. The website is designed as a single-page. It opens with an expansive hero section, complete with intuitive navigation and a prominent call to action. Subsequently, there is a brief introduction that underscores the defined core values: family orientation, eco-friendliness, and year-round availability. The gallery showcases the array of attractions, succeeded by a comprehensive list of amenities. A substantial contact form, accompanied by a map and social media links, resides at the bottom of the page.
 
 **Design:**
 
-Main color associate with honey and organic eggs, both natural products offered at this agro-farm. The tone color draws attention without being overwhelming. Kalam's font is handwritten-one, yet very readable. It transmits and strengths human touch. All photos used in production were taken by me :) Fluid grid basing on Graham Miller' grid system; downsized for personal use.
+The primary colour is evocative of honey and organic eggs, aligning with the agro-farm's natural product offerings. The tone colour captures attention while maintaining a balanced presence. The "Kalam" typeface, despite its handwritten nature, remains highly legible and coherent. Photographs taken by me.
 
 Please >> [visit here](https://piotrend.github.io/buchmila/ ) <<
 
